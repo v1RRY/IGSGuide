@@ -12,6 +12,9 @@ MSN Zone Internet Games revival.
 To launch the server, download the version for your CPU arch from the IGS GitHub link at the top
 Then unzip the archive downloaded from releases to some folder at one of your internal/external drives
 
+> [!CAUTION]
+> ZIGS does NOT work on Linux/macOS/BSD devariatives, it's a program only for Microsoft Windows under ARM64 or amd64!!!
+
 Then, go to the folder and launch InternetGamesServer.exe, if you do not run it on a VPS/VDS and you run it on your self-host PC, then also recommended
 to use software like Hamachi or Radmin VPN
 
