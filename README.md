@@ -5,6 +5,7 @@ MSN Zone Internet Games revival.
 
 > [!TIP]
 > To use the guide properly, be sure you do it with Windows 7 Games for Windows 10 installed and ZIGS in folder on C or external drive like D or E
+> Why is Windows 7 Games for Windows 10 needed? because starting from Windows 8, Microsoft removed games like Internet Backgammon and offline games like Purble Place and ZIGS is a server for Internet Games, W7GFW10 pack is NOT owned by me, its owned by Winaero who made Winaero Tweaker
 
 ## Launching the server
 
