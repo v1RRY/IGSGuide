@@ -28,7 +28,7 @@ If found bots, cheaters (:skull:) or bullies, use one of these
 
 `lc` - Lists all connected to the server sockets and their IPs
 `lm` - List all match sockets with players and their IPs
-`k {ip}` - Kick one of connected IP sockets
+`k {ip}` - Kick one of connected IP sockets like `k 192.149.139.23`
 `b {ip}` - Ban one of connected IP sockets
 `u {ip}` - Remove socket from the banlist
 
@@ -36,4 +36,15 @@ If found bots, cheaters (:skull:) or bullies, use one of these
 
 For now, thats all!
 
-I will research the server and it's abilities more on now but still this guide may not update!
+I will research the server and it's abilities more on now but still this guide may not get something majoringly new
+because thats based off 2.0 version of ZIGS.. beta :3
+
+## With that, how does ZIGS work in super simple words?
+
+ZIGS is Zone Internet Games Server's revival, made because of MSN Games closing on July 31, 2019
+
+And how was ZIGS made? I can't really say the truth but my guess is reverse engineering or protocol recreation
+
+So, PC -> ZIGS -> LAN/WLAN -> Gayming time :3
+
+(i couldnt explain more sry :sob:)
