@@ -12,7 +12,7 @@ MSN Zone Internet Games revival.
 To launch the server, download the version for your CPU arch from the IGS GitHub link at the top
 Then unzip the archive downloaded from releases to some folder at one of your internal/external drives
 
-Then, go to the folder and launch InternetGamesServer.exe, if you do not run it on a VPS/VDS and you run it on your self-host PC, then also reccomended
+Then, go to the folder and launch InternetGamesServer.exe, if you do not run it on a VPS/VDS and you run it on your self-host PC, then also recommended
 to use software like Hamachi or Radmin VPN
 
 ## Connecting to the server
@@ -20,7 +20,7 @@ to use software like Hamachi or Radmin VPN
 To connect to your or anothers server, go to the directory of your server EXEC in CMD and type "dllinjector -c"
 If one of games (e.g. Internet Checkers) is launched, window will appear from the game in the taskbar
 
-In the window, you should put 'localhost' or IP of ZIGS server you want to connect to, port is unnecesary to enter yours, it always listens on Zone's default port
+In the window, you should put 'localhost' or IP of ZIGS server you want to connect to, port is unnecessary to enter yours, it always listens on Zone's default port
 
 ## Commands and their usage
 
@@ -37,7 +37,7 @@ If found bots, cheaters (:skull:) or bullies, use one of these
 
 For now, thats all!
 
-I will research the server and it's abilities more on now but still this guide may not get something majoringly new
+I will research the server and it's abilities more on now but still this guide may not get something majorly new
 because thats based off 2.0 version of ZIGS.. beta :3
 
 ## With that, how does ZIGS work in super simple words?
