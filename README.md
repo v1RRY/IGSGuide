@@ -52,3 +52,45 @@ And how was ZIGS made? I can't really say the truth but my guess is reverse engi
 So, PC -> ZIGS -> LAN/WLAN -> Gayming time :3
 
 (i couldnt explain more sry :sob:)
+
+## Little update
+
+So uh yeah hi happy new year- oh... im late
+well anyways VIRRY IS BAKC!!!!!
+
+lets just say that.... i learned ZIGS a bit more
+
+so now i will tell you THAT:
+you can actually turn your PC into a full fledged MSN Zone (maybe not) server at home!
+
+so its not just the Local Area Network thingy now, lets learn about VPN'S!!!
+
+okay so, to create an MSN Zone server at home that everyone can play NOT using even a cloud hosting vm (like the ZIGS creator did and it expired lmao)
+
+there's two magic spells that Minecraft players are maybe familiar with (Hello, Russian/Ukrainian MC players!):
+Hamachi and
+Radmin VPN
+
+we will talk about Radmin VPN today, so!
+if you are a minecraft player ur prob familiar with Hamachi and Radmin VPN as it
+finally made Open for LAN usable
+
+so how it works?
+radmin vpn just creates a network that has credentials as:
+Name
+Password (6-digits)
+
+and without these? mmm sorry self hosting is cancelled-
+
+and in this virtual private network (vpn) it connects everyone to your wi-fi (kinda) and it makes that like everyone connected to the vpn is in your "room" and they are all in your LAN
+
+so here now the IP given by zigs is usable!
+
+also uhh...
+
+### Keenetic users tip
+
+pro-tip: the ip always given by zigs is permanent so you can set a reverse proxy and
+put a domain to it and it may work with radmin vpn and hamachi
+
+like instead of "192.168.0.0.1" you get everyone to use "zigs.mylocal.area" lfmao
